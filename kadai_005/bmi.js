@@ -1,5 +1,5 @@
-weit = 68;
-heigth = 1.7;
+const weight = 68;
+const heigth = 1.7;
 
 const BMI = weit / (heigth * heigth);
 
